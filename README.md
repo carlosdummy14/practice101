@@ -12,9 +12,13 @@ It's a repo that I will use to improve my code skills, learn and practice.
 - Markdown
 - Git
 
+#### Practice 000
+
+- Initialize base directory, set styles and validate that all is connect with HTML and Javascript files
+
 #### Practice 001
 
-- Initialize base directory, set styles and validate that all is connect with HTML file
+- Something drop, I use Javascript to create multiple elements like "div" or "img", and they are animate with CSS. The elements are created and when the animation finish the elements are deleted. We can play with the time of delay and duration from animation.
 
 My notes... (This could disapear)
 
