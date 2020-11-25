@@ -20,6 +20,10 @@ It's a repo that I will use to improve my code skills, learn and practice.
 
 - Something drop, I use Javascript to create multiple elements like "div" or "img", and they are animate with CSS. The elements are created and when the animation finish the elements are deleted. We can play with the time of delay and duration from animation.
 
+#### Practice 002
+
+- Form Login. Flex like display and some effects for inputs and button.
+
 My notes... (This could disapear)
 
 - I have a base directory that I might duplicate for each practice
